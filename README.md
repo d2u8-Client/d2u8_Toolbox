@@ -69,4 +69,8 @@ Fast, Pure, Functional
 47.业内首创，采用鸿蒙设计图标
 
 目前官方更新渠道 / Current officially update platforms:
-三楼（葫芦侠），Github，Discord，Telegram Channel（频道），QQ群
+三楼（葫芦侠）
+[Github Releases](https://github.com/d2u8-Client/d2u8_Toolbox/releases/tag/rtb)
+[Discord](https://dsc.gg/d2u8ci)
+[Telegram Channel（频道）](https://t.me/d2u8ci)
+QQ群（674184960）
